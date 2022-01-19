@@ -65,21 +65,3 @@ const path = require('path');
 
 })()//autoexecução
 //========================fim do script==========================//
-
-
-
-
-   //spawn(`./setbk.dll`,[`${dir}\\temp\\temp.jpg`])
-
-
-
-    //execSync(`reg add "HKCU\\control panel\\desktop" /v wallpaper /t REG_SZ /d "" /f`)
-   //execFileSync('python',[`${__dirname}/setbk.py`])
-   //spawn(`${__dirname}\\setbk.dll`,[`${__dirname}\\temp\\temp.jpg`])
-    
-   // execSync(`reg add "HKCU\\Control Panel\\Desktop" /v wallpaper /t REG_SZ /d ${__dirname}\\temp\\temp.jpg /f`)
-   // execSync(`reg add "HKCU\\control panel\\desktop" /v WallpaperStyle /t REG_SZ /d 2 /f`)
-   // execSync(`RUNDLL32.EXE USER32.dll,UpdatePerUserSystemParameters`)
-
-//<img data-url="wp10290049" src="https://wallpapercave.com/wp/wp10290049.jpg" slug="black-widow-minimalist-wallpapers" class="wpimg">
-
