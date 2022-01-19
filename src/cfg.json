@@ -1,0 +1,9 @@
+{
+    "url":"https://wallpapercave.com/featured-wallpapers/",
+    "dlurl":"https://wallpapercave.com",
+    "selector":".wpimg",
+    "downloadpath":"./temp/temp.jpg",
+    "dll":"./setwallpaper.dll",
+    "ramdonintervalpage":["10","50"],
+    "ramdoninterval":["0","12"]
+}
