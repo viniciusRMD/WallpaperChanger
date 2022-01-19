@@ -9,7 +9,7 @@ const path = require('path');
 
 //================== fnção de inicialização======================//
 (async()=>{
-    spawnSync('nocs.dll')
+    //spawnSync('nocs.dll')
 
 //==================define o diretorio do src=======================//
     const dir = path.resolve('./')
