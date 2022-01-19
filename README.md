@@ -5,4 +5,4 @@ I was tired of looking for wallpapers, so I decided to create a script that woul
 
 
 I used this module that changes the wallpaper:
-win-wallpaper - Windows binary used in this module
+<a href="">win-wallpaper</a> - Windows binary used in this module
