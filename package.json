@@ -1,10 +1,11 @@
 {
   "name": "getwallpaper",
   "bin": "main.js",
-  "version": "1.2",
+  "version": "1.0.0",
+  "description": "automate download ramdom and set wallpapers",
   "main": "main.js",
   "scripts": {
-    "start": "%cd%/src/main.js"
+    "start": "main.js"
   },
   "pkg": {
     "output": "dist",
@@ -19,7 +20,7 @@
     "axios": "^0.24.0",
     "hide-console": "^1.0.3",
     "jsdom": "^19.0.0",
-    "pkg": "^5.2.1",
-    "request": "^2.88.2"
+    "node-hide-console-window": "^2.1.1",
+    "pkg": "^5.2.1"
   }
 }
